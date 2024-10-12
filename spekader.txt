@@ -1,5 +1,7 @@
 # mantap
-# tumbler
-# nametag
-# slayer
-# bukang
+1. tumbler
+2. nametag
+3. slayer
+4. bukang
+5. buah buahan
+6. Alat tulis
